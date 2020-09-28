@@ -1,0 +1,11 @@
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.exe
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.deps.json
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.runtimeconfig.json
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.runtimeconfig.dev.json
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.dll
+C:\Users\tayja\Desktop\movieList\bin\Debug\netcoreapp3.1\movieList.pdb
+C:\Users\tayja\Desktop\movieList\obj\Debug\netcoreapp3.1\movieList.csprojAssemblyReference.cache
+C:\Users\tayja\Desktop\movieList\obj\Debug\netcoreapp3.1\movieList.AssemblyInfoInputs.cache
+C:\Users\tayja\Desktop\movieList\obj\Debug\netcoreapp3.1\movieList.AssemblyInfo.cs
+C:\Users\tayja\Desktop\movieList\obj\Debug\netcoreapp3.1\movieList.dll
+C:\Users\tayja\Desktop\movieList\obj\Debug\netcoreapp3.1\movieList.pdb
