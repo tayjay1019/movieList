@@ -29,7 +29,14 @@ namespace movieList
                     while (!sr.EndOfStream){
                         string line = sr.ReadLine();
                         String[] arr = line.Split(',');
+                        // test to work around "," problem
+                        if(arr.Length >= 4){
+                            Console.WriteLine($"{arr[0],-8} {arr[1]+","+arr[2],-40} {arr[3]}");
+                        }
+                        else{
+                            //regular code
                         Console.WriteLine("{0,-8} {1,-40} {2}", arr[0], arr[1], arr[2]);
+                        }
                     }
                     Console.WriteLine("");
                     sr.Close();
